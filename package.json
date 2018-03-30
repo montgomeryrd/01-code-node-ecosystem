@@ -1,0 +1,27 @@
+{
+  "name": "01-code-node-ecosystem",
+  "version": "1.0.0",
+  "description": "![CF](https://camo.githubusercontent.com/70edab54bba80edb7493cad3135e9606781cbb6b/687474703a2f2f692e696d6775722e636f6d2f377635415363382e706e67) 01: Node Ecosystem ===",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montgomeryrd/01-code-node-ecosystem.git"
+  },
+  "author": "Richard Montgomery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montgomeryrd/01-code-node-ecosystem/issues"
+  },
+  "homepage": "https://github.com/montgomeryrd/01-code-node-ecosystem#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.7.0",
+    "jest": "^22.4.3"
+  }
+}
